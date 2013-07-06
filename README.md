@@ -8,3 +8,5 @@ This is the code for the Rails Tutorial on the web tutorial located here.
 
 There are quite a few errors in it and this is a working version.
 
+Trying to create single page for CRUD
+
